@@ -100,7 +100,6 @@
 import vue2Dropzone from 'vue2-dropzone'
 import 'vue2-dropzone/dist/vue2Dropzone.min.css'
 import InputTag from 'vue-input-tag'
-import axios from 'axios'
 
 export default {
   components: {
